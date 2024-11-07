@@ -4,7 +4,7 @@ project:
   title:        "RAYS FIRST TAPEOUT rev 2"      # Project title
   author:       "RAY STITS"      # Your name
   discord:      "raystits"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "rays first tapeout V2"      # One line description of what your project does
+  description:  "rays first tapeout V3"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     3       # Clock frequency in Hz (or 0 if not applicable)
 
