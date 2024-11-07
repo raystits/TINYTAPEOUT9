@@ -15,5 +15,5 @@ turn on clock switch or press step button
 
 ## External hardware
 clock
-buttons
+button
 7seg led
