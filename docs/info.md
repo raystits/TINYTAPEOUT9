@@ -20,3 +20,4 @@ turn on clock switch or press step button
 clock (slow)
 buttons
 7seg led
+luck
